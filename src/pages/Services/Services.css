@@ -1,0 +1,12 @@
+.listOfServices:hover{
+    background-color: red;
+}
+
+.listOfServices{
+    margin-top: 20px;
+}
+
+.servicesWrapper{
+    margin-top: 60px;
+}
+
